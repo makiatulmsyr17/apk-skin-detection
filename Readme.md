@@ -83,7 +83,9 @@ Aplikasi akan terbuka otomatis di browser Anda.
 ```
 
 ---
+## Link Deployment 
 
+https://ai-skin-analyzer.streamlit.app/ 
 ## 🤝 Kontribusi
 
 Kontribusi sangat terbuka! Jangan ragu untuk membuat *issue*, *pull request*, atau memberikan saran fitur baru.
