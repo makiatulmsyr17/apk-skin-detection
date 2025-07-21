@@ -93,7 +93,7 @@ model = load_keras_model(model_path)
 
 
 # --- HALAMAN UTAMA ---
-st.title("Analisis Warna Kulit Profesional")
+st.title("✨Analisis Warna Kulit Profesional✨")
 st.write("Selamat datang! Unggah foto kulit Anda untuk mendapatkan analisis mendalam dan rekomendasi perawatan dari AI kami.")
 
 if model:
